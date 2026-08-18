@@ -29,9 +29,11 @@ const MODEL_MAPPING = {
   'inkling': 'thinkingmachines/inkling',
   'gemma-4-31b-it': 'google/gemma-4-31b-it',
   'gpt-oss-120b': 'openai/gpt-oss-120b',
+  'gpt-oss-20b': 'openai/gpt-oss-20b',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash',
-  'minstral': 'mistralai/mistral-nemotron'
+  'minstral': 'mistralai/mistral-nemotron',
+  'minimax': 'minimaxai/minimax-m3'
 };
 
 // Health check endpoint
