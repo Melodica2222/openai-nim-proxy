@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'deepseek-v4-pro-0813': 'deepseek-ai/deepseek-v4-pro-0813',
   'deepseek-v4-flash-0731': 'deepseek-ai/deepseek-v4-flash-0731',
   'glm-5.2': 'z-ai/glm-5.2',
-  'kimi-k2.6': 'moonshotai/kimi-k2.6',
+  'kimi-k3': 'moonshotai/kimi-k3',
   'inkling': 'thinkingmachines/inkling',
   'gemma-4-31b-it': 'google/gemma-4-31b-it',
   'gpt-oss-120b': 'openai/gpt-oss-120b',
