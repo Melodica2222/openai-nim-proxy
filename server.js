@@ -24,7 +24,7 @@ const ENABLE_THINKING_MODE = false; // Set to true to enable chat_template_kwarg
 const MODEL_MAPPING = {
   'deepseek-v4-pro-0813': 'deepseek-ai/deepseek-v4-pro-0813',
   'deepseek-v4-flash-0731': 'deepseek-ai/deepseek-v4-flash-0731',
-  'glm-5.2': 'z-ai/glm-5.2',
+  'glm-5.3': 'z-ai/glm-5.3',
   'kimi-k3': 'moonshotai/kimi-k3',
   'inkling': 'thinkingmachines/inkling',
   'diffusiongemma': 'google/diffusiongemma-26b-a4b-it',
