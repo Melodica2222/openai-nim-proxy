@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'glm-5.3': 'z-ai/glm-5.3',
   'glm-5.3-flash': 'z-ai/glm-5.3-flash',
   'kimi-k3': 'moonshotai/kimi-k3',
-  'inkling': 'thinkingmachines/inkling',
+  'step-5-preview': 'stepfun-ai/step-5-preview',
   'diffusiongemma': 'google/diffusiongemma-26b-a4b-it',
   'gpt-oss-120b': 'openai/gpt-oss-120b',
   'gpt-oss-20b': 'openai/gpt-oss-20b',
