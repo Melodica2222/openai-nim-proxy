@@ -34,7 +34,7 @@ const MODEL_MAPPING = {
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash',
   'minstral': 'mistralai/mistral-nemotron',
-  'minimax': 'minimaxai/minimax-m3',
+  'minimax': 'minimaxai/minimax-m3.1-flash',
   'nemotron-3': 'nvidia/nemotron-3-super-120b-a12b'
 };
 
