@@ -33,7 +33,7 @@ const MODEL_MAPPING = {
   'gpt-oss-20b': 'openai/gpt-oss-20b',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash',
-  'mistral': 'mistralai/mistral-large-4-1t-a52b',
+  'mistral4': 'mistralai/mistral-large-4-1t-a52b',
   'minimax': 'minimaxai/minimax-m3.1-flash',
   'nemotron-3': 'nvidia/nemotron-3-super-120b-a12b'
 };
